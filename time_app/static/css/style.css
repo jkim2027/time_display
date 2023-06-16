@@ -1,0 +1,28 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 2px black solid;
+    border-radius: 20px;
+    padding: 50px 10px;
+    margin: 50px 350px;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 40px;
+}
